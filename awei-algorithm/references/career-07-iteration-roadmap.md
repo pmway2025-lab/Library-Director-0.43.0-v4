@@ -41,3 +41,4 @@
 | 日期 | 版本 | 變更 |
 |---|---|---|
 | 2026-09-05 | Gen 1.0 | 建立 skill：五步 SOP、三葉草、生涯四度、五類心智牆、躍遷策略、三張輸出模板、迭代規範 |
+| 2026-09-17 | Gen 1.1 | 由獨立 skill `career-planner-agent` 整體併入 `awei-algorithm`，成為其「生涯規劃師模組」；檔名加上 `career-` 前綴避免與既有 references 撞名，原 skill 刪除 |
